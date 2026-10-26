@@ -1,0 +1,31 @@
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results / Output folders
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Ee]xternal/
+[Pp]ackages/
+
+## Local Databases (важно дл€ вашей SQLite базы cinema.db)
+*.db
+*.db-shm
+*.db-wal
+
+## OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+## User-specific configuration (если по€витс€ файл с секретами)
+appsettings.Development.json
